@@ -4,7 +4,7 @@
 Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan TP9 dalam mata kuliah DPBO untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Dokumentasi
-
+https://github.com/user-attachments/assets/9ee965fa-8639-403e-8c6d-5993f36457cf
 
 ## Desain Program
 
@@ -76,7 +76,7 @@ Program ini menerapkan arsitektur MVP (Model-View-Presenter) dengan struktur fol
    - Halaman `index.php` direfresh untuk menampilkan data terbaru
 
 ## Catatan Penting
-**Jangan lupa untuk mengubah kredensial database di file `presenter/ProsesMahasiswa.php`:**
+**Jangan lupa untuk mengubah kredensial database di file `model/DB.class.php` dan `presenter/ProsesMahasiswa.php`:**
 
 ```php
 $db_host = "localhost"; // host 
