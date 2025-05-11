@@ -1,8 +1,5 @@
 <?php
 
-/******************************************
- Asisten Pemrogaman 13 & 14
-******************************************/
 
 include("presenter/ProsesMahasiswa.php");
 

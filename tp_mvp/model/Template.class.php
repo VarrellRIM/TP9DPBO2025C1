@@ -1,8 +1,6 @@
 <?php
 
-/******************************************
- Asisten Pemrogaman 12 & 13 & 14
-******************************************/
+
 
 class Template{
 	var $filename = ''; // handle file

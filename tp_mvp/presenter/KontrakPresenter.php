@@ -5,9 +5,7 @@ include("model/DB.class.php");
 include("model/Mahasiswa.class.php");
 include("model/TabelMahasiswa.class.php");
 
-/******************************************
- Asisten Pemrogaman 13 & 14
-******************************************/
+
 
 // Interface atau gambaran dari presenter akan seperti apa
 interface KontrakPresenter
